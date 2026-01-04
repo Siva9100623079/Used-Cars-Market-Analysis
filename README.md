@@ -1,8 +1,8 @@
-# Used Cars Market Analysis 🚗🏎🚔
+# Used Cars Market Analysis
 
-This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI. 📊📉📈
+This project aims to analyze India's used cars market to identify pricing trends, best and worst car deals, market dynamics, premium brands and customer preferences by using SQL and Power BI.
 
-## Dataset 📂
+## Dataset
 
 The data is from CarDekho Used Car Dataset available on Kaggle, containing 15411 vehicle listings. 
 The columns are :
@@ -20,7 +20,7 @@ The columns are :
 12. seats - int 
 13. selling_price - int
 
-## Skills 🔨
+## Skills
 
 1. MySQL
 2. Power BI
@@ -30,35 +30,35 @@ The columns are :
 6. Data Cleaning
 7. Dashboard Design
    
-## Analysis 📊💡🔎
+## Analysis
 
-1. Ferrari brand has the highest avg selling price of 3,95,00,000 INR while Datsun brand has the lowest average selling price of 320518 INR for pre-owned cars. 🚘💵
+1. Ferrari brand has the highest avg selling price of 3,95,00,000 INR while Datsun brand has the lowest average selling price of 320518 INR for pre-owned cars. 
 
-2. The most sold brand of cars belongs to Maruti brand. 🚙
+2. The most sold brand of cars belongs to Maruti brand. 
 
-3. The average age of vehicles sold is 6 years, maximum age recorded is 29 years and minimum age recorded is 0 years. 🗓📅
+3. The average age of vehicles sold is 6 years, maximum age recorded is 29 years and minimum age recorded is 0 years. 
 
-4. Hyundai i20 emerges as the dominating car in the used cars market. 🎖
+4. Hyundai i20 emerges as the dominating car in the used cars market. 
 
-5. Ferrari GTC4Lusso emerges as the car with highest selling price on an average. On the flip side, Maruti Alto emerges as the car with lowest selling price on an average. 💲💹
+5. Ferrari GTC4Lusso emerges as the car with highest selling price on an average. On the flip side, Maruti Alto emerges as the car with lowest selling price on an average.
 
-6. Dealers constitute a  significant chunk of seller in the used cars market and average selling price of cars is 8,72,506 INR. 🤝
+6. Dealers constitute a  significant chunk of seller in the used cars market and average selling price of cars is 8,72,506 INR. 
 
-7. Automatic cars have higher sellling prices on an average as well as maximum power. 💰
+7. Automatic cars have higher sellling prices on an average as well as maximum power. 
 
-8. Petrol cars constitute bulk of the market . The highest selling price is of Electric cars . 
+8. Petrol cars constitute bulk of the market . The highest selling price is of Electric cars.
 
-9. Mini Brand is the most overpriced brand in used cars, followed by Mercedes-Benz. 💲💲
+9. Mini Brand is the most overpriced brand in used cars, followed by Mercedes-Benz.
 
-10. Maruti brand emerges as the best deal of used cars after price comparison, followed by Hyundai and Ford. ✔ ✔
+10. Maruti brand emerges as the best deal of used cars after price comparison, followed by Hyundai and Ford.
 
-11. 5 seater cars are predominant in the market and have high mileage on average. ⬆⬆
+11. 5 seater cars are predominant in the market and have high mileage on average.
 
-12. The highest selling price on average is of 7 seater cars of 11,64,031 INR . 🚙💹
+12. The highest selling price on average is of 7 seater cars of 11,64,031 INR.
 
-13. Maruti Brand cars have highest mileage folllowed by Renault. 🔼🔼
+13. Maruti Brand cars have highest mileage folllowed by Renault.
 
-14. Ferrari brand cars have the least mileage . 🔽🔽
+14. Ferrari brand cars have the least mileage.
     
 15. Manual cars constitute 79.33% of the used car markets.
 
@@ -66,24 +66,24 @@ The columns are :
 
 17. Ferrari GTC4Lusso is the car model with highest power on an average equal to 601.00 BHP and Maruti Alto with lowest power on an average equal to 53.81 BHP.
 
-18. LPG cars have the most km dirven and CNG cars have highest mileage on an average.  ⛽
+18. LPG cars have the most km dirven and CNG cars have highest mileage on an average.
 
-## Contributions to the  Pre-owned car market 🏆🏅
+## Contributions to the  Pre-owned car market
 
 This project utilizes SQL queries and Power BI Dashboards to uncover vital market insights and aid customers and sellers in better descision making in the following manner:
 
-1. Helps customers analyze the best and worst pre-owned car deals, hence avoiding overpayment and scams. 📊
+1. Helps customers analyze the best and worst pre-owned car deals, hence avoiding overpayment and scams.
 
-2. Helps customers identify high mileage brands for fuel efficiency. 🔼⬆
+2. Helps customers identify high mileage brands for fuel efficiency.
 
-3. Helps customers to negotiate effectively. 🤝
+3. Helps customers to negotiate effectively.
 
-4. Helps sellers to price the cars competitively by uncovering trends. 💲
+4. Helps sellers to price the cars competitively by uncovering trends.
 
-5. Helps sellers to identify the brands and models in demand and stock up the inventory accordingly. 🏎🚗
+5. Helps sellers to identify the brands and models in demand and stock up the inventory accordingly.
 
 
-## Links 🔗
+## Links
 
 Dataset : Taken From Kaggle 
 
